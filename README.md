@@ -2,7 +2,7 @@
 
 This project is a simple C++ console application that allows users to manage a list of tasks. The app supports adding, viewing, editing, completing, and deleting tasks—all from a user-friendly terminal interface. It was built as part of my personal software portfolio to strengthen my skills in structuring interactive, menu-based programs in C++.
 
-[Software Demo Video](to-do)
+[Software Demo Video](https://youtu.be/bhd6Td-z6KU)
 
 ## Development Environment
 
